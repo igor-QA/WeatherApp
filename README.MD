@@ -3,7 +3,7 @@ echo "# WeatherApp1" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
-git remote add origin https://github.com/igor-QA/WeatherApp1.git
+git remote add origin https://github.com/igor-QA/WeatherApp.git
 git push -u origin master
                 
 …or push an existing repository from the command line
